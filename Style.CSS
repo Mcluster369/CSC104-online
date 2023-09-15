@@ -1,0 +1,35 @@
+/* Style for Article I heading */
+h1 {
+    font-size: 28px;
+    color: #b4e06c; /* Light green */
+    text-align: center;
+}
+
+/* Style for sections within Article I */
+h2 {
+    font-size: 20px;
+    color: #444; /* Slightly lighter gray text color */
+}
+
+/* Style for paragraphs within Article I */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Style for links within Article I */
+a {
+    color: #0078d4; /* Blue link color */
+    text-decoration: underline;
+}
+
+/* Style for links on hover */
+a:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+/* Background color for the entire webpage */
+body {
+    background-color: #c57070; /* Light gray background */
+}

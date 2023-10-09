@@ -1,0 +1,71 @@
+/* styles.css */
+
+/* Global Styles */
+/* Import the Open Sans font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* Global Styles */
+body {
+    font-family: 'Open Sans', Arial, sans-serif; /* Use 'Open Sans' as the primary font */
+    font-size: 14px; /* Set the font size to 14px for the entire website */
+    background-color: #da3b3b;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight:bold;
+}
+
+/* Page-Specific Styles */
+/* Add specific styles for each HTML page here */
+
+/* Homepage Styles */
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Education Page Styles */
+.education-content {
+    padding: 20px;
+    background-color: #db6c68f3;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Set the font size for the <h1> element within .education-content */
+.education-content h1 {
+    font-size: 14px; /* Adjust the font size as needed */
+}
+
+/* Community Page Styles */
+/* Add specific styles for the Community page here */
+.community-content {
+    padding: 20px;
+    background-color: #e75050;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Additional styles for other pages can be added similarly */

@@ -1,0 +1,49 @@
+<!-- contact.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ... (head content) ... -->
+</head>
+<body>
+    <header>
+        <!-- Header content -->
+    </header>
+
+    <nav>
+        <!-- Navigation menu -->
+    </nav>
+
+    <main>
+        <!-- Content for the Contact page -->
+        <section>
+            <h2>Contact Us</h2>
+
+            <!-- Add a "Return to Home Page" link -->
+            <p><a href="index.html">Return to Home Page</a></p>
+
+            <!-- Contact information -->
+            <p>If you have any questions or need assistance, feel free to get in touch with us:</p>
+            <address>
+                <p><strong>Email:</strong> <a href="mcluster357@gmail.com">mcluster357@gmail.com</a></p>
+                <p><strong>Phone:</strong> +1 (123) 456-7890</p>
+                <p><strong>Address:</strong> 123 Drone Street, Droneville, DR 12345</p>
+            </address>
+
+            <!-- Insert a contact form if needed -->
+            <!-- Example: -->
+            <form>
+                <!-- Form fields here -->
+            </form>
+            
+            <!-- Rest of the content for this section -->
+        </section>
+
+        <!-- Additional sections and content for the Contact page -->
+    </main>
+
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>
